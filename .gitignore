@@ -205,6 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 chatbot/
 .gitignore/
 
+=======
+>>>>>>> ed296e82bf3f2fff817d7a0a93c65772824f7ed2
