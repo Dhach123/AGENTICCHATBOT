@@ -28,10 +28,16 @@ Below are the details
 3)nodes
 4)state
 5)tools
-6)UI
+6)UI (under UI folder created streamlitui folder and two files .py named loadui.py and display_result.py and also created uiconfigfile.ini)
 
 # main.py and app.py is created main.py is created inside langraphagenticai
 and app.py outside and under src
+
+# requirements.txt file created to store all the dependencies
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+# UICONFIGFILE.INI  we given UI CONSTANTS
+In UIconfigfile.py we created config class
+from loadui.py loading the side bars of UI page
 
 
 
