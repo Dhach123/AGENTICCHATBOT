@@ -44,6 +44,8 @@ In UIconfigfile.py we created config class
 from loadui.py loading the side bars of UI page and same integrated in main.py and app.py and UI testing workd fine
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Trigger of workflow after selecting constants 
+
 
 
 
