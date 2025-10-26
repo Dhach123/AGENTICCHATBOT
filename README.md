@@ -31,7 +31,7 @@ Below are the details
 6)UI (under UI folder created streamlitui folder and two files .py named loadui.py and display_result.py and also created uiconfigfile.ini)
 
 # main.py and app.py is created main.py is created inside langraphagenticai
-and app.py outside and under src
+and app.py outside and under src(Source folder)
 
 # requirements.txt file created to store all the dependencies
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
