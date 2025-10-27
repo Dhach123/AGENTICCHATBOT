@@ -1,4 +1,5 @@
 
+
 # END TO END  Project AGENTIC AI CHATBOT
 =======
 Steps to created Virtual Enviorment in Bash:
@@ -45,6 +46,19 @@ from loadui.py loading the side bars of UI page and same integrated in main.py a
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # Trigger of workflow after selecting constants 
+GROQ LLM file updated
+GRAPH BUILDING STEPS PERFORMED
+BASIC CHATBOT NODE CREATED
+STATE FILE CREATED
+BASIC CHATBOT UI Created and UI testing performed
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# Adding New use case Chatbot with tool
+updated .ini file with use case ChatBot with Web
+Then update the loadui.py with required changes about new use case like adding select use case from dropdwo chat with web and adding Tavily BOx
+
+
 
 
 
